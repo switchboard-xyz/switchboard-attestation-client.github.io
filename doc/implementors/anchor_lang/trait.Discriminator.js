@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"switchboard_attestation_client":[["impl Discriminator for <a class=\"struct\" href=\"switchboard_attestation_client/solana/struct.QuoteInitSimpleParams.html\" title=\"struct switchboard_attestation_client::solana::QuoteInitSimpleParams\">QuoteInitSimpleParams</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
